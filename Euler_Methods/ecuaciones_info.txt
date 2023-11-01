@@ -1,0 +1,8 @@
+Nota al momento de ingresar las ecuaciones:
+    El exponencial se especifica de la forma exp([resto de la expresión]).
+    Las raices deben espresarse como exponentes fraccionarios.
+    Los exponentes se expresan de con el símbolo **, no como ^.
+    Si se desea validar las ecuaciones mostradas en la parte práctica de la guía, considerar que estas se rigen bajo un formato:
+        exp(2*y)
+        (x+y-2)**2 
+        0.9*y - 1.8*y**2
