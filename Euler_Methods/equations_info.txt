@@ -1,0 +1,8 @@
+Note when entering equations:
+    Exponential functions should be specified in the form exp([remainder of the expression]).
+    Roots must be expressed as fractional exponents.
+    Exponents are expressed using the ** symbol, not ^.
+    If you wish to validate the equations shown in the practical part of the guide, consider that they follow a format:
+        exp(2*y)
+        (x+y-2)**2
+        0.9y - 1.8y**2
