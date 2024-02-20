@@ -12,27 +12,25 @@ This Python program provides a graphical interface for solving ordinary differen
 ```
 git clone https://github.com/yourusername/ode-solver.git
 ```
-Navigate to the project directory:
-
-bash
-Copy code
-cd ode-solver
-Install the required dependencies:
-
-Copy code
+2. Navigate to the project directory:
+```
+cd Euler_Methods
+```
+3. Install the required dependencies:
+```
 pip install -r requirements.txt
-Usage
-Run the program:
+```
+## Usage
+1. Run the file root.py:
+```
+python root.py
+```
+2. Enter the differential equation along with initial conditions and parameters.
 
-css
-Copy code
-python main.py
-Enter the differential equation along with initial conditions and parameters.
+3. Choose the method (Euler or Improved Euler) for solving the ODE.
 
-Choose the method (Euler or Improved Euler) for solving the ODE.
+3. Click the "Solve" button to visualize the numerical solution.
 
-Click the "Solve" button to visualize the numerical solution.
-
-Example Equations
-Example 1: dy/dx = x + y, Initial condition: y(0) = 1
-Example 2: dy/dx = x - y, Initial condition: y(0) = 0
+## Example Equations
+- Example 1: dy/dx = x + y, Initial condition: y(0) = 1
+- Example 2: dy/dx = x - y, Initial condition: y(0) = 0
