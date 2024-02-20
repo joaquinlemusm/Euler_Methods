@@ -1,0 +1,10 @@
+Language: Python
+Version: 3.12.0
+Libraries:
+  numpy
+  sympy
+  matplotlib
+  pandas
+  tkinter
+  customtkinter
+To execute, run the file root.py.
