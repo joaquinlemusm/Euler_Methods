@@ -9,9 +9,9 @@ This Python program provides a graphical interface for solving ordinary differen
 - Visualization of the numerical solution alongside the analytical solution (if available).
 ## Installation
 1. Clone the repository to your local machine:
-'''
+```
 git clone https://github.com/yourusername/ode-solver.git
-'''
+```
 Navigate to the project directory:
 
 bash
